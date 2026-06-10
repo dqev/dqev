@@ -1,10 +1,3 @@
-<p align="center">
-  <span><strong>Dev Chauhan</strong></span>
-</p>
-
-<p align="center">
-  <img width="800" alt="Image" src="https://res.cloudinary.com/dzed8kurd/image/upload/v1775385085/readme_idfas4.jpg" />
-</p>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="29" alt="react logo"  />
