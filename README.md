@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="800" alt="Affaan Mustafa" src="https://res.cloudinary.com/dzed8kurd/image/upload/v1775385085/readme_idfas4.jpg" />
+  <img width="800" alt="Image" src="https://res.cloudinary.com/dzed8kurd/image/upload/v1775385085/readme_idfas4.jpg" />
 </p>
 
 <div align="center">
@@ -31,7 +31,7 @@ I'm a full-stack developer passionate about creating free, accessible web tools 
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devchauhann&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for devchauhann" height="165" />
+  <img src="https://streak-stats.demolab.com?user=dqev&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for devchauhann" height="165" />
 </p>
 
 
