@@ -19,8 +19,6 @@ I'm a full-stack developer passionate about creating free, accessible web tools 
 
 </sub></p>
 
-**[devchauhan.in →](https://devchauhan.in)**
-
 
 
 <p align="center">
