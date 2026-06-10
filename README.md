@@ -14,9 +14,9 @@
 </div>
 
 <p align="center"><sub>
-<strong>Full-Stack Developer | Building Free Web Tools for Developers & Students | Open Source</strong></br>
-I'm a full-stack developer passionate about creating free, accessible web tools for developers and students. With expertise in modern web technologies, I focus on building solutions that solve real problems in the developer community.</em></strong><br />
-
+<strong>Frontend Developer · Building reicon.dev & open source tools for developers</strong><br/>
+I build free, accessible web tools that solve real problems — from icon libraries to color systems.
+Currently a CS student, open source contributor, and always shipping something new.
 </sub></p>
 
 
