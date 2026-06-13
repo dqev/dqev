@@ -11,6 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="29" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="29" alt="firebase logo"  />
+  <img width="5" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-plain.svg" height="29" alt="npm logo"  />
 </div>
 
 <p align="center"><sub>
