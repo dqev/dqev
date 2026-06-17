@@ -17,23 +17,18 @@
 
 <p align="center"><sub>
 <strong>Frontend Developer · Building reicon.dev & open source tools for developers</strong><br/>
-I build free, accessible web tools that solve real problems — from icon libraries to color systems.
+I build free, accessible web tools that solve real problems — from icon libraries to color systems.</br>
 Currently a CS student, open source contributor, and always shipping something new.
 </sub></p>
 
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dqev&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=adbac7&dates=adbac7&currStreakNum=adbac7&sideNums=adbac7" alt="GitHub streak stats for devchauhann" height="165" />
-</p>
-
-
-
-<p align="center">
-  <a href="https://linkedin.com/devchauhann3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://leetcode.com/devchauhann" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-</p>
+<p align="center"><sub>
+  <strong>alt: </strong>
+<strong>
+<a href="https://github.com/cuvi">@cuvi</a>
+<a href="https://github.com/dieo">@dieo</a>
+<a href="https://github.com/lddd">@lddd</a>
+<a href="https://github.com/fzzy">@fzzy</a>
+</strong>
+</sub></p>
