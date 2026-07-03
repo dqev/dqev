@@ -24,7 +24,7 @@ Currently a CS student, open source contributor, and always shipping something n
 <div align="center">
   <img
     src="https://streak-stats.demolab.com?user=dqev&theme=highcontrast&hide_border=true&background=EB545400"
-    width="30%"
+    width="40%"
     alt="GitHub Streak"
   />
 </div>
