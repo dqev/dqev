@@ -17,25 +17,7 @@
 
 <p align="center"><sub>
 <strong>Frontend Developer · Building reicon.dev & open source tools for developers</strong><br/>
-I build free, accessible web tools that solve real problems — from icon libraries to color systems.</br>
+I build free, accessible web tools that solve real problems - from icon libraries to color systems.</br>
 Currently a CS student, open source contributor, and always shipping something new.
 </sub></p>
 
-<div align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=dqev&theme=highcontrast&hide_border=true&background=EB545400"
-    width="40%"
-    alt="GitHub Streak"
-  />
-</div>
-
-
-<p align="center"><sub>
-  <strong>alt: </strong>
-<strong>
-<a href="https://github.com/cuvi">@cuvi</a>
-<a href="https://github.com/dieo">@dieo</a>
-<a href="https://github.com/lddd">@lddd</a>
-<a href="https://github.com/fzzy">@fzzy</a>
-</strong>
-</sub></p>
